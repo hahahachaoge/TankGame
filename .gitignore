@@ -1,0 +1,62 @@
+# ============================
+# Unity 项目 .gitignore
+# ============================
+
+# Unity 自动生成的文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / VS Code 项目文件
+*.csproj
+*.sln
+*.unityproj
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.userossettings
+*.DotSettings.user
+
+# Mono / .NET
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+*.mdb
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Gradle (Android)
+gradle/
+*.gradle
+local.properties
+
+# Crash logs
+crashlytics-*.plist
+*.log
+
+# 打包文件
+*.apk
+*.aab
+*.ipa
+*.app
+
+# 杂项
+*.bak
+*.swp
+*.swo
+*~
+*.orig
