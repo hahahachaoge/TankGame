@@ -274,7 +274,7 @@ rightRate = Mathf.Clamp(vertical - horizontal, -1.0f, 1.0f);
 - **履带纹理滚动** — 根据车轮转速驱动的 UV 滚动动画
 - **履带网格变形** — 根据路轮位置动态修改网格顶点
 - **从动轮同步** — 非驱动轮按半径比自动适配转速
-- **场景物体可破坏** — 房屋（有 LOD）、树篱、树木均可被炮弹摧毁
+- **场景物体可破坏** — 树篱、树木均可被炮弹摧毁
 - **枪口火焰** — 开火时的 muzzle fire 粒子特效
 
 ### 🔊 7. 音效系统（OGG）
@@ -387,10 +387,10 @@ TankGame/
 │   │   │   │   ├── SD_Tiger-I_1.1.prefab   # 虎式坦克
 │   │   │   │   ├── Bullet_and_Effects/     # 子弹与特效
 │   │   │   │   ├── Ground_Tile/            # 地形瓦片
-│   │   │   │   ├── Props/                  # 场景道具
+│   │   │   │   ├── Props/                  # 3DMAX 建模场景道具
 │   │   │   │   └── Scene_Components/       # 场景组件
 │   │   │   │
-│   │   │   ├── Meshes/                     # 🏗️ 3ds Max 模型 (FBX)
+│   │   │   ├── Meshes/                     # 🏗️ 坦克模型 
 │   │   │   │   ├── SD_Firefly/             # 萤火虫坦克
 │   │   │   │   ├── SD_Tiger-I/             # 虎式坦克
 │   │   │   │   ├── Bullet/                 # 子弹模型
