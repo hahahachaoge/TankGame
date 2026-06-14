@@ -61,7 +61,7 @@
 如果你已 clone 整个项目仓库：
 
 ```bash
-git clone https://github.com/your-username/TankGame.git
+git clone https://github.com/hahahachaoge/TankGame.git
 cd TankGame
 ```
 
@@ -502,17 +502,7 @@ TankGame/
 
 ---
 
-## 🙏 致谢
-
-- **Kawaii Tanks** — 精美的坦克模型与资源包
-- **Unity Technologies** — 强大的游戏引擎与标准资源
-- **3ds Max** — 专业的三维建模工具
-
----
-
 <div align="center">
-
-**Made with ❤️ by 黄彪骐 · 202440025318**
 
 ⭐ 如果这个项目对你有帮助，欢迎 star！
 
